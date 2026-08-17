@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cmdk.email/schema/gmail-shortcuts-v1.json",
+  "title": "Gmail shortcuts map",
+  "type": "object",
+  "required": [
+    "version",
+    "generated",
+    "license",
+    "shortcuts"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "generated": {
+      "type": "string",
+      "format": "date"
+    },
+    "source": {
+      "type": "string",
+      "format": "uri"
+    },
+    "license": {
+      "type": "string"
+    },
+    "counts": {
+      "type": "object"
+    },
+    "shortcuts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "keys",
+          "action",
+          "category",
+          "origin"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "keys": {
+            "type": "object",
+            "description": "Either {default} or {mac, windows}.",
+            "properties": {
+              "default": {
+                "type": "string"
+              },
+              "mac": {
+                "type": "string"
+              },
+              "windows": {
+                "type": "string"
+              }
+            }
+          },
+          "action": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "category": {
+            "type": "string"
+          },
+          "categoryLabel": {
+            "type": "string"
+          },
+          "origin": {
+            "enum": [
+              "gmail-native",
+              "cmdk"
+            ]
+          },
+          "requiresSetting": {
+            "type": "string"
+          },
+          "requiresExtension": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}

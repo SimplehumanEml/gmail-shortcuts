@@ -1,0 +1,1166 @@
+{
+  "$schema": "https://cmdk.email/schema/gmail-shortcuts-v1.json",
+  "version": "1.0.0",
+  "generated": "2026-08-17",
+  "source": "https://github.com/SimplehumanEml/gmail-shortcuts",
+  "license": "CC-BY-4.0",
+  "counts": {
+    "total": 95,
+    "gmailNative": 59,
+    "cmdk": 36
+  },
+  "shortcuts": [
+    {
+      "id": "gmail-learn-these-ten-first-c",
+      "keys": {
+        "default": "c"
+      },
+      "action": "Compose",
+      "description": "Compose",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-e",
+      "keys": {
+        "default": "e"
+      },
+      "action": "Archive",
+      "description": "Archive",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-key",
+      "keys": {
+        "default": "#"
+      },
+      "action": "Delete",
+      "description": "Delete",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-r",
+      "keys": {
+        "default": "r"
+      },
+      "action": "Reply",
+      "description": "Reply",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-a",
+      "keys": {
+        "default": "a"
+      },
+      "action": "Reply all",
+      "description": "Reply all",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-j-k",
+      "keys": {
+        "default": "j / k"
+      },
+      "action": "Older / newer conversation",
+      "description": "Older / newer conversation",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-o",
+      "keys": {
+        "default": "o"
+      },
+      "action": "Open conversation (or Enter)",
+      "description": "Open conversation (or Enter)",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-u",
+      "keys": {
+        "default": "u"
+      },
+      "action": "Back to list",
+      "description": "Back to list",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-key",
+      "keys": {
+        "default": "/"
+      },
+      "action": "Search",
+      "description": "Search",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-learn-these-ten-first-z",
+      "keys": {
+        "default": "z"
+      },
+      "action": "Undo last action",
+      "description": "Undo last action",
+      "category": "learn-these-ten-first",
+      "categoryLabel": "Learn these ten first",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-navigation-n-p",
+      "keys": {
+        "default": "n / p"
+      },
+      "action": "Next / previous message in thread",
+      "description": "Next / previous message in thread",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-navigation-key",
+      "keys": {
+        "default": "`"
+      },
+      "action": "Next inbox tab",
+      "description": "Next inbox tab",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-navigation-key",
+      "keys": {
+        "default": "~"
+      },
+      "action": "Previous inbox tab",
+      "description": "Previous inbox tab",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-navigation-key",
+      "keys": {
+        "default": "?"
+      },
+      "action": "Shortcut help overlay",
+      "description": "Shortcut help overlay",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-navigation-esc",
+      "keys": {
+        "default": "Esc"
+      },
+      "action": "Leave input field",
+      "description": "Leave input field",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-i",
+      "keys": {
+        "default": "g i"
+      },
+      "action": "Inbox",
+      "description": "Inbox",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-s",
+      "keys": {
+        "default": "g s"
+      },
+      "action": "Starred",
+      "description": "Starred",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-t",
+      "keys": {
+        "default": "g t"
+      },
+      "action": "Sent",
+      "description": "Sent",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-d",
+      "keys": {
+        "default": "g d"
+      },
+      "action": "Drafts",
+      "description": "Drafts",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-a",
+      "keys": {
+        "default": "g a"
+      },
+      "action": "All Mail",
+      "description": "All Mail",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-k",
+      "keys": {
+        "default": "g k"
+      },
+      "action": "Tasks",
+      "description": "Tasks",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-c",
+      "keys": {
+        "default": "g c"
+      },
+      "action": "Contacts",
+      "description": "Contacts",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-n",
+      "keys": {
+        "default": "g n"
+      },
+      "action": "Next page of list",
+      "description": "Next page of list",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-go-to-g-p",
+      "keys": {
+        "default": "g p"
+      },
+      "action": "Previous page of list",
+      "description": "Previous page of list",
+      "category": "go-to",
+      "categoryLabel": "Go to",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-reply-forward-f",
+      "keys": {
+        "default": "f"
+      },
+      "action": "Forward",
+      "description": "Forward",
+      "category": "reply-forward",
+      "categoryLabel": "Reply & forward",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-reply-forward-r",
+      "keys": {
+        "default": "⇧r"
+      },
+      "action": "Reply in new window",
+      "description": "Reply in new window",
+      "category": "reply-forward",
+      "categoryLabel": "Reply & forward",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-reply-forward-a",
+      "keys": {
+        "default": "⇧a"
+      },
+      "action": "Reply all in new window",
+      "description": "Reply all in new window",
+      "category": "reply-forward",
+      "categoryLabel": "Reply & forward",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-reply-forward-f",
+      "keys": {
+        "default": "⇧f"
+      },
+      "action": "Forward in new window",
+      "description": "Forward in new window",
+      "category": "reply-forward",
+      "categoryLabel": "Reply & forward",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-key",
+      "keys": {
+        "default": "!"
+      },
+      "action": "Mark as spam",
+      "description": "Mark as spam",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-m",
+      "keys": {
+        "default": "m"
+      },
+      "action": "Mute conversation",
+      "description": "Mute conversation",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-s",
+      "keys": {
+        "default": "s"
+      },
+      "action": "Star / unstar",
+      "description": "Star / unstar",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-b",
+      "keys": {
+        "default": "b"
+      },
+      "action": "Snooze",
+      "description": "Snooze",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-i",
+      "keys": {
+        "default": "⇧i"
+      },
+      "action": "Mark as read",
+      "description": "Mark as read",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-u",
+      "keys": {
+        "default": "⇧u"
+      },
+      "action": "Mark as unread",
+      "description": "Mark as unread",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-key",
+      "keys": {
+        "default": "+ / -"
+      },
+      "action": "Important / not important",
+      "description": "Important / not important",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-l",
+      "keys": {
+        "default": "l"
+      },
+      "action": "Label menu",
+      "description": "Label menu",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-v",
+      "keys": {
+        "default": "v"
+      },
+      "action": "Move to",
+      "description": "Move to",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-key",
+      "keys": {
+        "default": "."
+      },
+      "action": "More actions menu",
+      "description": "More actions menu",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-key",
+      "keys": {
+        "default": "; / :"
+      },
+      "action": "Expand / collapse thread",
+      "description": "Expand / collapse thread",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-actions-t",
+      "keys": {
+        "default": "⇧t"
+      },
+      "action": "Add to Tasks",
+      "description": "Add to Tasks",
+      "category": "actions",
+      "categoryLabel": "Actions",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-select-x",
+      "keys": {
+        "default": "x"
+      },
+      "action": "Select current conversation",
+      "description": "Select current conversation",
+      "category": "select",
+      "categoryLabel": "Select",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-select-a",
+      "keys": {
+        "default": "* a"
+      },
+      "action": "Select all on page",
+      "description": "Select all on page",
+      "category": "select",
+      "categoryLabel": "Select",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-select-n",
+      "keys": {
+        "default": "* n"
+      },
+      "action": "Deselect all",
+      "description": "Deselect all",
+      "category": "select",
+      "categoryLabel": "Select",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-select-r-u",
+      "keys": {
+        "default": "* r / * u"
+      },
+      "action": "Select read / unread",
+      "description": "Select read / unread",
+      "category": "select",
+      "categoryLabel": "Select",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-select-s-t",
+      "keys": {
+        "default": "* s / * t"
+      },
+      "action": "Select starred / unstarred",
+      "description": "Select starred / unstarred",
+      "category": "select",
+      "categoryLabel": "Select",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-d",
+      "keys": {
+        "default": "d"
+      },
+      "action": "Compose in new tab",
+      "description": "Compose in new tab",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl",
+      "keys": {
+        "default": "Ctrl ⏎"
+      },
+      "action": "Send",
+      "description": "Send",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl-c",
+      "keys": {
+        "default": "Ctrl⇧c"
+      },
+      "action": "Add Cc",
+      "description": "Add Cc",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl-b",
+      "keys": {
+        "default": "Ctrl⇧b"
+      },
+      "action": "Add Bcc",
+      "description": "Add Bcc",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl-d",
+      "keys": {
+        "default": "Ctrl⇧d"
+      },
+      "action": "Discard draft",
+      "description": "Discard draft",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl-k",
+      "keys": {
+        "default": "Ctrl k"
+      },
+      "action": "Insert link",
+      "description": "Insert link",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl-7",
+      "keys": {
+        "default": "Ctrl⇧7"
+      },
+      "action": "Numbered list",
+      "description": "Numbered list",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl-8",
+      "keys": {
+        "default": "Ctrl⇧8"
+      },
+      "action": "Bulleted list",
+      "description": "Bulleted list",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl-9",
+      "keys": {
+        "default": "Ctrl⇧9"
+      },
+      "action": "Quote",
+      "description": "Quote",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl",
+      "keys": {
+        "default": "Ctrl [ ]"
+      },
+      "action": "Outdent / indent",
+      "description": "Outdent / indent",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-compose-send-ctrl",
+      "keys": {
+        "default": "Ctrl \\"
+      },
+      "action": "Remove formatting",
+      "description": "Remove formatting",
+      "category": "compose-send",
+      "categoryLabel": "Compose & send",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-bulk-combos-worth-knowing-u-i",
+      "keys": {
+        "default": "* u ⇧i"
+      },
+      "action": "Mark all unread as read",
+      "description": "Mark all unread as read",
+      "category": "bulk-combos-worth-knowing",
+      "categoryLabel": "Bulk combos worth knowing",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-bulk-combos-worth-knowing-a-e",
+      "keys": {
+        "default": "* a e"
+      },
+      "action": "Archive whole page",
+      "description": "Archive whole page",
+      "category": "bulk-combos-worth-knowing",
+      "categoryLabel": "Bulk combos worth knowing",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "gmail-bulk-combos-worth-knowing-a",
+      "keys": {
+        "default": "* a #"
+      },
+      "action": "Delete whole page",
+      "description": "Delete whole page",
+      "category": "bulk-combos-worth-knowing",
+      "categoryLabel": "Bulk combos worth knowing",
+      "origin": "gmail-native",
+      "requiresSetting": "Keyboard shortcuts turned on in Gmail settings"
+    },
+    {
+      "id": "cmdk-command-bar",
+      "keys": {
+        "mac": "Cmd + K",
+        "windows": "Ctrl + K"
+      },
+      "action": "Command bar",
+      "description": "Open the CMDK command bar to search and run any Gmail action.",
+      "category": "command-bar",
+      "categoryLabel": "Command bar",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "cmdk-snippets",
+      "keys": {
+        "default": ";"
+      },
+      "action": "Insert snippet",
+      "description": "Type ; to insert a reusable snippet or template with smart variables.",
+      "category": "compose",
+      "categoryLabel": "Compose",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "escape-smart",
+      "keys": {
+        "default": "Esc"
+      },
+      "action": "Smart Escape",
+      "description": "Hotkey to close emails, popups, or go back to Inbox.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "escape-close-toasts",
+      "keys": {
+        "default": "Esc"
+      },
+      "action": "Close Gmail Notifications",
+      "description": "Close Gmail's toast and success notifications using the Esc key.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "arrow-right",
+      "keys": {
+        "default": "→"
+      },
+      "action": "Next email or page",
+      "description": "Move to next email or page in email list. Not available in split pane mode.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "arrow-left",
+      "keys": {
+        "default": "←"
+      },
+      "action": "Previous email or page",
+      "description": "Move to previous email or page in email list. Not available in split pane mode.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "arrow-down",
+      "keys": {
+        "default": "↓"
+      },
+      "action": "Next message in thread",
+      "description": "Jump to the next message within a conversation thread. Not available in split pane mode.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "arrow-up",
+      "keys": {
+        "default": "↑"
+      },
+      "action": "Previous message in thread",
+      "description": "Jump to the previous message within a conversation thread. Not available in split pane mode.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "tab-next-tab",
+      "keys": {
+        "default": "Tab"
+      },
+      "action": "Switch to next CMDK Tab",
+      "description": "Works only when Tabs are enabled.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "tab-prev-tab",
+      "keys": {
+        "default": "Shift + Tab"
+      },
+      "action": "Switch to previous CMDK Tab",
+      "description": "Works only when Tabs are enabled.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "delete-backspace",
+      "keys": {
+        "default": "Backspace"
+      },
+      "action": "Delete",
+      "description": "Delete emails using Backspace key.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "delete-key",
+      "keys": {
+        "default": "Del"
+      },
+      "action": "Delete",
+      "description": "Delete emails using Del key.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "snooze-b",
+      "keys": {
+        "default": "B"
+      },
+      "action": "Snooze Bar",
+      "description": "Shows the snooze bar to snooze emails and add reminders using natural language.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "snooze-h",
+      "keys": {
+        "default": "H"
+      },
+      "action": "Superhuman Snooze & Remind",
+      "description": "Additional keyboard shortcut to snooze and remind emails. Superhuman style.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "toggle-unread",
+      "keys": {
+        "default": "U"
+      },
+      "action": "Toggle Read/Unread",
+      "description": "Toggle the read or unread status of the selected email.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "star-and-archive",
+      "keys": {
+        "default": "Shift + S"
+      },
+      "action": "Star and Archive",
+      "description": "Star and archive the selected or hovered email in one action.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "archive-marks-read",
+      "keys": {
+        "default": "E"
+      },
+      "action": "Mark as read before archiving",
+      "description": "When you archive with E, unread emails are marked as read first.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "enter-reply",
+      "keys": {
+        "default": "Enter"
+      },
+      "action": "Reply to email when viewing",
+      "description": "Reply when viewing an email.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "reply-to-intro",
+      "keys": {
+        "mac": "Cmd + Shift + I",
+        "windows": "Ctrl + Shift + I"
+      },
+      "action": "Reply to Intro",
+      "description": "Reply to an intro email with the introducer moved to BCC.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "move-inbox",
+      "keys": {
+        "default": "V"
+      },
+      "action": "Move to Inbox",
+      "description": "Move selected email to Inbox (when in All Mail, Sent, etc.).",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "multi-select",
+      "keys": {
+        "default": "Shift + ↑↓"
+      },
+      "action": "Multi-select emails",
+      "description": "Extend email selection up or down with Shift.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "select-all",
+      "keys": {
+        "mac": "Cmd + A",
+        "windows": "Ctrl + A"
+      },
+      "action": "Select all emails",
+      "description": "Select all emails in the current view.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "undo",
+      "keys": {
+        "mac": "Cmd + Z",
+        "windows": "Ctrl + Z"
+      },
+      "action": "Undo",
+      "description": "Undo the last action (e.g. archive, delete).",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "unsubscribe",
+      "keys": {
+        "mac": "Cmd + U",
+        "windows": "Ctrl + U"
+      },
+      "action": "Unsubscribe",
+      "description": "Unsubscribe from the selected newsletter or mailing list. This is different from Nuke.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "cmd-o",
+      "keys": {
+        "mac": "Cmd + O",
+        "windows": "Ctrl + O"
+      },
+      "action": "Commando (Open links)",
+      "description": "Open the links present in the email. Great for emails with one time use links.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "ask-ai",
+      "keys": {
+        "default": "I"
+      },
+      "action": "Ask AI",
+      "description": "Open Google Gemini AI assistant for the current email.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "instant-copy",
+      "keys": {
+        "mac": "Cmd + C",
+        "windows": "Ctrl + C"
+      },
+      "action": "Instant Copy",
+      "description": "Copy current message to clipboard. Press again for entire conversation.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "schedule-send",
+      "keys": {
+        "mac": "Cmd + Shift + L",
+        "windows": "Ctrl + Shift + L"
+      },
+      "action": "Schedule Send",
+      "description": "Schedule when to send your email.",
+      "category": "compose",
+      "categoryLabel": "Compose",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "follow-up-toggle",
+      "keys": {
+        "mac": "Cmd + Shift + H",
+        "windows": "Ctrl + Shift + H"
+      },
+      "action": "Follow-up Reminder",
+      "description": "Add or remove follow-up reminder for the email.",
+      "category": "compose",
+      "categoryLabel": "Compose",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "edit-subject",
+      "keys": {
+        "mac": "Cmd + Shift + S",
+        "windows": "Ctrl + Shift + S"
+      },
+      "action": "Edit Subject",
+      "description": "Edit the subject field.",
+      "category": "compose",
+      "categoryLabel": "Compose",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "attach-file",
+      "keys": {
+        "mac": "Cmd + Shift + A",
+        "windows": "Ctrl + Shift + A"
+      },
+      "action": "Attach File",
+      "description": "Open the file attachment picker.",
+      "category": "compose",
+      "categoryLabel": "Compose",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "quick-quote",
+      "keys": {
+        "default": "Q"
+      },
+      "action": "Quick Quote",
+      "description": "Quote selected text when replying to an email.",
+      "category": "compose",
+      "categoryLabel": "Compose",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "paste-as-link",
+      "keys": {
+        "mac": "Cmd + V",
+        "windows": "Ctrl + V"
+      },
+      "action": "Paste as Link",
+      "description": "Paste a URL over selected text to create a hyperlink. When enabled, Cmd+K opens the command bar instead of Gmail's native link picker while composing.",
+      "category": "compose",
+      "categoryLabel": "Compose",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "rsvp-yes",
+      "keys": {
+        "default": "Shift + Y"
+      },
+      "action": "RSVP Yes",
+      "description": "RSVP Yes to calendar invites.",
+      "category": "rsvp",
+      "categoryLabel": "Calendar RSVP",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "rsvp-maybe",
+      "keys": {
+        "default": "Shift + M"
+      },
+      "action": "RSVP Maybe",
+      "description": "RSVP Maybe to calendar invites.",
+      "category": "rsvp",
+      "categoryLabel": "Calendar RSVP",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "rsvp-no",
+      "keys": {
+        "default": "Shift + N"
+      },
+      "action": "RSVP No",
+      "description": "RSVP No to calendar invites.",
+      "category": "rsvp",
+      "categoryLabel": "Calendar RSVP",
+      "origin": "cmdk",
+      "requiresExtension": true
+    }
+  ]
+}
