@@ -7,6 +7,7 @@ you can build on it.
 
 - **[`gmail-shortcuts.json`](./gmail-shortcuts.json)** — the dataset (95 shortcuts).
 - **[`gmail-shortcuts.schema.json`](./gmail-shortcuts.schema.json)** — its JSON Schema (draft 2020-12).
+- **[`gmail-shortcuts.jsonl`](./gmail-shortcuts.jsonl)** — the same data flattened to one shortcut per line, keys split into columns (for spreadsheets and dataset viewers).
 
 ## Why this exists
 
