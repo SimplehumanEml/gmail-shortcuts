@@ -1,13 +1,13 @@
 {
   "$schema": "https://cmdk.email/schema/gmail-shortcuts-v1.json",
   "version": "1.0.0",
-  "generated": "2026-08-17",
+  "generated": "2026-09-09",
   "source": "https://github.com/SimplehumanEml/gmail-shortcuts",
   "license": "CC-BY-4.0",
   "counts": {
-    "total": 95,
+    "total": 98,
     "gmailNative": 59,
-    "cmdk": 36
+    "cmdk": 39
   },
   "shortcuts": [
     {
@@ -840,6 +840,30 @@
       "requiresExtension": true
     },
     {
+      "id": "go-to-top",
+      "keys": {
+        "default": "g g"
+      },
+      "action": "Jump to top of list",
+      "description": "Press g then g to jump to the first email on the page you are viewing.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "go-to-bottom",
+      "keys": {
+        "default": "⇧ G"
+      },
+      "action": "Jump to bottom of list",
+      "description": "Press Shift + G to jump to the last email on the page you are viewing.",
+      "category": "navigation",
+      "categoryLabel": "Navigation",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
       "id": "delete-backspace",
       "keys": {
         "default": "Backspace"
@@ -1006,6 +1030,19 @@
       },
       "action": "Unsubscribe",
       "description": "Unsubscribe from the selected newsletter or mailing list. This is different from Nuke.",
+      "category": "cmdk-enhancements",
+      "categoryLabel": "CMDK enhancements",
+      "origin": "cmdk",
+      "requiresExtension": true
+    },
+    {
+      "id": "nuke-sender",
+      "keys": {
+        "mac": "Cmd + Shift + U",
+        "windows": "Ctrl + Shift + U"
+      },
+      "action": "Nuke this sender",
+      "description": "Block and delete all existing and future emails from the sender. Asks for confirmation before nuking.",
       "category": "cmdk-enhancements",
       "categoryLabel": "CMDK enhancements",
       "origin": "cmdk",
